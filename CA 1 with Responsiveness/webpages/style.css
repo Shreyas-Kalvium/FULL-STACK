@@ -1,0 +1,286 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Signika', sans-serif;
+}
+body{
+    background-color: rgb(22, 22, 22);
+    height: 100%;
+    width: 100%;
+}
+#nav{
+    position: relative;
+    top: 10px;
+    left: 220px;
+    height: 40px;
+}
+nav{
+    padding-left: 3px;
+    position: absolute;
+    top: 0px;
+    background-color: black;
+    height: 720px;
+    width: 200px;
+    color: white;
+    word-spacing: 1px;
+    font-size: 13px;
+    text-align: left;
+}
+#logo{
+    height: 50px;
+}
+#home,#search,#lib,#plus,#heart,#podcast,#install{
+    height: 20px;
+    width: 20px;
+}
+figcaption{
+    position: relative;
+    top: -25px;
+    left: 4px;
+    font-size: 20px;
+    color:black 
+}
+#white{
+    position: relative;
+    top: -3px;
+    left: 3px;
+    height: 5px
+}
+footer{
+    position: relative;
+    top: 525px;
+    background-color: black;
+    height: 100px;
+    color: white;
+}
+#option{position: relative;
+    top: -10px;
+    left: 1200px;
+    height: 22px;
+}
+#play{position: relative;
+    height: 70px;
+    left: 260px;
+    top: 10px;
+}
+#dreaming{
+    position: relative;
+    left:-820px;
+    height:70px
+}
+caption{
+    color:white;
+    position:relative;
+    top: 500px;
+}
+h5{
+    position: relative;
+    top: -50px;
+    left: 90px;
+}
+h6{
+    color: rgb(89, 90, 91);
+    position: relative;
+    top: -50px;
+    left: 90px;
+}
+#likeg{
+    position: relative;
+    height: 20px;
+    top: -75px;
+    left:200px;
+}
+#last{
+    position: relative;
+    top: 505px;
+    background-color: #1ED760;
+    height: 20px;
+}
+h1{
+    position: relative;
+    color:white;
+    left: 250px;
+    top: 50px;
+}
+#back{
+    color: white;
+}
+#lastGroup{
+    position: relative;
+    top: -740px;
+}
+#top1{
+    position: relative;
+    left: 250px;
+    top: 60px;
+    border-radius: 5%;
+    background-color: rgb(7, 4, 4);
+    height: 90px;
+    width: 250px;
+    color: aliceblue;
+}
+#top5{
+    position: relative;
+    left: 250px;
+    top: -200px;
+    border-radius: 5%;
+    background-color: rgb(7, 4, 4);
+    height: 90px;
+    width: 250px;
+    color: aliceblue;
+}
+#top2{
+    position: relative;
+    left: 550px;
+    top: -30px;
+    border-radius: 5%;
+    background-color: rgb(7, 4, 4);
+    height: 90px;
+    width: 250px;
+    color: aliceblue;
+}
+#top3{
+    position: relative;
+    left: 850px;
+    top: -120px;
+    border-radius: 5%;
+    background-color: rgb(7, 4, 4);
+    height: 90px;
+    width: 250px;
+    color: aliceblue;
+}
+#top4{
+    position: relative;
+    left: 1150px;
+    top: -210px;
+    border-radius: 5%;
+    background-color: rgb(7, 4, 4);
+    height: 90px;
+    width: 250px;
+    color: aliceblue;
+}
+#heart2{
+    position: relative;
+    top: -25px;
+    left: -60px;
+}
+#img4,#img3,#img1,#img2{
+    height:90px;
+}
+h4{
+    position: relative;
+    color: red;
+}
+#h41{
+    position: relative;
+    color: white;
+    top: -355px;
+    left: 350px;
+}
+#h42{
+    position: relative;
+    color: white;
+    top: -375px;
+    left: 650px;
+}
+#h43{
+    position: relative;
+    color: white;
+    top: -390px;
+    left: 950px;
+}
+#h44{
+    position: relative;
+    color: white;
+    top: -410px;
+    left: 1250px;
+}
+#h45{
+    position: relative;
+    color: white;
+    top: -340px;
+    left: 350px;
+}
+h2{
+    position: relative;
+    top: 300px;
+    left: 250px;
+    color: white;
+}
+#shows{
+    display: grid;
+    grid-template-columns: repeat(6,200px);
+}
+#show1{
+    position: relative;
+    border-radius: 10%;
+    top: -210px;
+    left: 250px;
+    background-color: aqua;
+    height: 160px;
+    width: 150px;
+}
+#show2{
+    position: relative;
+    border-radius: 10%;
+    top: -210px;
+    left: 250px;
+    background-color: aqua;
+    height: 160px;
+    width: 150px;
+}
+#show3{
+    position: relative;
+    border-radius: 10%;
+    top: -210px;
+    left: 250px;
+    background-color: aqua;
+    height: 160px;
+    width: 150px;
+
+}
+#show4{
+    position: relative;
+    border-radius: 10%;
+    top: -210px;
+    left: 250px;
+    background-color: aqua;
+    height: 160px;
+    width: 150px;
+}
+#show5{
+    position: relative;
+    border-radius: 10%;
+    top: -210px;
+    left: 250px;
+    background-color: aqua;
+    height: 160px;
+    width: 150px;
+}
+#show6{
+    position: relative;
+    border-radius: 10%;
+    top: -210px;
+    left: 250px;
+    background-color: aqua;
+    height: 160px;
+    width: 150px;
+}
+#img9{
+    height: 160px;
+    width: 150px;
+}
+@media (max-width: 768px) {
+    nav {
+        width: 100%;
+        position: fixed;
+        left: -100%;
+        top: 0;
+        height: 100vh;
+        transition: left 0.3s ease;
+    }
+
+    nav.active {
+        left: 0;
+    }
+}
