@@ -8,7 +8,7 @@
     padding: 20px;
 }
 .header{
-    background-image: url("https://github.com/Kalvium-Program/kidz-world-html-boilerplate/blob/main/assets/kw-background.png?raw=true");
+    background-image: url("assets/kw-background.png");
     background-size: 100%;
     color: white;
     height: 500px;
