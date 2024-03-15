@@ -1,0 +1,91 @@
+
+#cricpro{
+    margin-top: 20px;
+    margin-left: 1300px;
+}
+#heading{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    margin-left: 60px;
+    font-size: 50px;
+    color: #000;
+}
+#secondheading{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    margin-left: 60px;
+    font-size: 23px;
+    color: rgb(114, 107, 107);
+}
+#bgimage{
+    margin-left: 650px;
+}
+#bodypart {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    background-image: url("assets/background-image1.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 531px;
+    margin-right: 20px;
+}
+.orangeheading {
+    margin-left: 855px;
+}
+#orangeheading{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:coral;
+    margin-left: 60px;
+    margin-right: 362px;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(255, 255, 255);
+    display: flex;
+}
+.tableboard{
+    margin-left: 60px;
+    padding-left: 15px;
+    background-color: rgb(255, 255, 255);
+}
+.lefttable{
+    width: 300px;
+    text-align: left;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.bowler {
+    width: 350px;
+    color: rgb(128, 128, 128);
+}
+.middletable{
+    width: 74px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.extra{
+    font-weight: bold;
+    background-color: rgb(255, 255, 255);
+    padding-top: 7px;
+    padding-bottom: 7px;
+    width: 681px;
+    text-align: left;
+}
+.run{
+    background-color: rgb(255, 255, 255);
+    padding-top: 7px;
+    padding-bottom: 7px;
+    width: 357px;
+    text-align: left;
+}
+.didnotbatname{
+    width: 738px;
+}
+.footer{
+    font-weight: bold;
+    text-align: justify;
+    padding-top: 1px;
+}
