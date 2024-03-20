@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+*{
+    font-family: 'Fredoka One', cursive;
+    background-color: dodgerblue;
+}
+h1{
+    color:brown;
+    -webkit-text-stroke: 5px white;
+    font-size: 80px;
+    text-align: center;
+
+}
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto auto;
+    justify-content: center;
+    grid-gap: 10px
+}
+.box1{
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 15%;
+    height: 100px;
+    width: 100px;
+}
+footer{
+    text-align: center;
+}
